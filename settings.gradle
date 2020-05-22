@@ -1,0 +1,2 @@
+rootProject.name='NeoClock'
+include ':app'
